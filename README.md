@@ -33,5 +33,4 @@ This simple Python script allows you to either collect a baseline of file hashes
 - hashlib library
 - Open-source community
 
-Feel free to update the README with your name, GitHub profile link, and any additional details you'd like to include.
 
