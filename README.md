@@ -11,7 +11,6 @@ This simple Python script allows you to either collect a baseline of file hashes
 ## Table of Contents
 
 - [Usage](#usage)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Usage
@@ -27,11 +26,6 @@ This simple Python script allows you to either collect a baseline of file hashes
       ```shell
       python file_integrity_monitor.py
       ```
-
-
-## Author
-
-- [Your Name](https://github.com/LOKESHWAR-BH4G47)
 
 ## Acknowledgments
 
